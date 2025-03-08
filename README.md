@@ -1,5 +1,5 @@
 Sales Data Analysis
-Project Overview
+Project Overview:
 This repository contains a detailed analysis of sales data, aimed at uncovering insights into sales performance across different regions and evaluating the effectiveness of various sales representatives. The analysis explores trends, identifies top-performing products, and examines the popularity of payment methods among different customer types.
 
 Key Analyses
