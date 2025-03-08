@@ -1,3 +1,9 @@
-Multiple Linear Regression for House Price Prediction 🏡💰
+Sales Data Analysis
+Project Overview
+This repository contains a detailed analysis of sales data, aimed at uncovering insights into sales performance across different regions and evaluating the effectiveness of various sales representatives. The analysis explores trends, identifies top-performing products, and examines the popularity of payment methods among different customer types.
 
-This project demonstrates a Multiple Linear Regression model that predicts house prices based on features like size (sq ft), number of bedrooms & bathrooms, distance from the city, and house age. The model is evaluated using metrics such as MAE, MSE, and R² 📊. An interactive Streamlit app is provided to visualize the results and make real-time predictions 🚀.
+Key Analyses
+Trend Analysis: Evaluate how sales figures change over time and identify seasonal trends.
+Product Performance: Determine which products are top-sellers in various regions.
+Sales Representative Performance: Analyze and compare the performance of sales representatives across different geographical areas.
+Payment Method Preferences: Examine which payment methods are preferred by different types of customers in various regions.
