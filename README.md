@@ -7,5 +7,9 @@ Trend Analysis: Evaluate how sales figures change over time and identify seasona
 
 
 Product Performance: Determine which products are top-sellers in various regions.
+
+
 Sales Representative Performance: Analyze and compare the performance of sales representatives across different geographical areas.
+
+
 Payment Method Preferences: Examine which payment methods are preferred by different types of customers in various regions.
